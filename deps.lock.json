@@ -1,0 +1,22 @@
+{
+    "hcsr04": {
+        "repo": "https://github.com/rsc1975/micropython-hcsr04",
+        "path": "hcsr04.py",
+        "source": "https://raw.githubusercontent.com/rsc1975/micropython-hcsr04/refs/heads/master/hcsr04.py",
+        "dest": "hcsr04.py"
+    },
+    "PicoRobotics": {
+        "repo": "https://github.com/KitronikLtd/Kitronik-Pico-Robotics-Board-MicroPython",
+        "path": "PicoRobotics.py",
+        "source": "https://raw.githubusercontent.com/KitronikLtd/Kitronik-Pico-Robotics-Board-MicroPython/refs/heads/main/PicoRobotics.py",
+        "dest": "PicoRobotics.py"
+    },
+    "neopixel": {
+        "repo": "https://github.com/blaz-r/pi_pico_neopixel",
+        "commit": "d1a9c8508fc2f7e1f803460126fba6a64135f506",
+        "path": "neopixel.py",
+        "source": "https://raw.githubusercontent.com/blaz-r/pi_pico_neopixel/d1a9c8508fc2f7e1f803460126fba6a64135f506/neopixel.py",
+        "sha256": "54d95f4fd528c7ef4102c0b6ff55cdf537884037303aa2d6598be7e4eea98737",
+        "dest": "neopixel.py"
+    }
+}

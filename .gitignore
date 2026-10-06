@@ -1,0 +1,6 @@
+__pycache__/
+typings/
+
+# supposed to contain WIFI_UUID WIFI_PASS and ID
+secret.py
+
