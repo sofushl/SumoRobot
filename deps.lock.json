@@ -2,14 +2,24 @@
     "hcsr04": {
         "repo": "https://github.com/rsc1975/micropython-hcsr04",
         "path": "hcsr04.py",
-        "source": "https://raw.githubusercontent.com/rsc1975/micropython-hcsr04/refs/heads/master/hcsr04.py",
-        "dest": "hcsr04.py"
+        "source": "https://raw.githubusercontent.com/rsc1975/micropython-hcsr04/17eafe3730ce27a880ba45f4c4891efeb112bf82/hcsr04.py",
+        "dest": "hcsr04.py",
+        "commit": "17eafe3730ce27a880ba45f4c4891efeb112bf82",
+        "sha256": "4214d4fbee9aaacd591e7df963c6f011dd76ddd6e5b9339543972cf77f47c117",
+        "license": "Apache-2.0",
+        "copyright": "Roberto Sánchez (author per hcsr04.py)",
+        "license_file": "third_party/micropython-hcsr04/LICENSE"
     },
     "PicoRobotics": {
         "repo": "https://github.com/KitronikLtd/Kitronik-Pico-Robotics-Board-MicroPython",
         "path": "PicoRobotics.py",
-        "source": "https://raw.githubusercontent.com/KitronikLtd/Kitronik-Pico-Robotics-Board-MicroPython/refs/heads/main/PicoRobotics.py",
-        "dest": "PicoRobotics.py"
+        "source": "https://raw.githubusercontent.com/KitronikLtd/Kitronik-Pico-Robotics-Board-MicroPython/66c7a6ef8ed40b888df83a1ce928e82ac7afdbf1/PicoRobotics.py",
+        "dest": "PicoRobotics.py",
+        "commit": "66c7a6ef8ed40b888df83a1ce928e82ac7afdbf1",
+        "sha256": "a5b1d32e791f7667b00ec8ad1fd45c36f3c3f748ec685782b3c788c71ac29797",
+        "license": "MIT",
+        "copyright": "Copyright (c) 2021 Kitronik Ltd",
+        "license_file": "third_party/Kitronik-Pico-Robotics-Board-MicroPython/LICENSE"
     },
     "neopixel": {
         "repo": "https://github.com/blaz-r/pi_pico_neopixel",
@@ -17,6 +27,9 @@
         "path": "neopixel.py",
         "source": "https://raw.githubusercontent.com/blaz-r/pi_pico_neopixel/d1a9c8508fc2f7e1f803460126fba6a64135f506/neopixel.py",
         "sha256": "54d95f4fd528c7ef4102c0b6ff55cdf537884037303aa2d6598be7e4eea98737",
-        "dest": "neopixel.py"
+        "dest": "neopixel.py",
+        "license": "MIT",
+        "copyright": "Copyright (c) 2021 blaz-r",
+        "license_file": "third_party/pi_pico_neopixel/LICENSE"
     }
 }
